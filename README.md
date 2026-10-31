@@ -7,8 +7,13 @@
 
 💻 Computer Engineering Student | Aspiring Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Code+%E2%80%A2+Create+%E2%80%A2+Innovate;Exploring+Artificial+Intelligence;Building+Ideas+into+Reality;Always+Learning+%7C+Always+Building" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Create-Innovate-38BDF8?style=for-the-badge&labelColor=0B1026" />
+</p>
 
+<p align="center">
+  <i>Exploring Technology • Building Solutions • Creating Impact</i>
+</p>
 </div>
 
 ---
@@ -67,19 +72,15 @@
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NasirNaveed&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasirNaveed&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
 <img width="95%" src="https://streak-stats.demolab.com?user=NasirNaveed&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
