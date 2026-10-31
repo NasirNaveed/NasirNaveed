@@ -3,17 +3,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:172554,100:6D28D9&height=200&section=header&text=Nasir%20Naveed&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Engineering%20%7C%20Software%20Development&descAlignY=60&descSize=16" width="100%" />
 
+<br/>
+
 ### 👋 Hey, I'm Nasir Naveed
 
 💻 Computer Engineering Student | Aspiring Software Developer
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Create-Innovate-38BDF8?style=for-the-badge&labelColor=0B1026" />
+  <img src="https://img.shields.io/badge/CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE-0B1026?style=for-the-badge&labelColor=172554" />
 </p>
 
-<p align="center">
-  <i>Exploring Technology • Building Solutions • Creating Impact</i>
-</p>
+<i>Exploring Technology • Building Solutions • Creating Impact</i>
+
 </div>
 
 ---
@@ -34,31 +35,31 @@
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js" />
 </p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,php" />
 </p>
 
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### ⚙️ Frameworks & Hardware
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,arduino" />
+  <img src="https://skillicons.dev/icons?i=flutter,arduino" />
 </p>
 
 ### 🔧 Tools & Version Control
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -72,7 +73,6 @@
 
 ---
 
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -81,7 +81,6 @@
 
 </div>
 
-
 ---
 
 ## 🤝 Connect With Me
@@ -89,10 +88,11 @@
 <div align="center">
 
 <a href="https://github.com/NasirNaveed">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/nasir-naveed-077814300/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
