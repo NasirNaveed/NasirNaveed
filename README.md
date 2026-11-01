@@ -68,18 +68,18 @@
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
-<img src="assets/title-stats.svg" alt="GitHub Statistics" height="40">
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NasirNaveed&theme=tokyonight&hide_border=true&background=0A0F1E&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE" alt="NasirNaveed GitHub streak stats" width="100%">
-</p>
-
-<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
-
 <img src="assets/title-projects.svg" alt="Featured Projects" height="40">
 
 <p align="center">
   <img src="assets/projects.svg" alt="Featured projects: Blood Bank Management App, Smart Energy Meter Dashboard, Smart Attendance System, Multithreaded Proxy Server" width="100%">
+</p>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
+<img src="assets/title-stats.svg" alt="GitHub Statistics" height="40">
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=NasirNaveed&theme=tokyonight&hide_border=true&background=0A0F1E&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE" alt="NasirNaveed GitHub streak stats" width="100%">
 </p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
