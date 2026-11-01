@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/typing.svg" alt="Computer Engineering Student at SSUET | Exploring AI and ML | Building Solutions | Dream Big. Build Bigger." width="100%">
+  <img src="assets/typing.svg" alt="Computer Engineering Student at SSUET | Code. Create. Innovate | Exploring AI and ML | Building Solutions | Dream Big. Build Bigger." width="100%">
 </p>
 
 <p align="center">
