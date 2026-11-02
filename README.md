@@ -79,7 +79,7 @@
 <img src="assets/title-stats.svg" alt="GitHub Statistics" height="40">
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NasirNaveed&theme=tokyonight&hide_border=true&background=0A0F1E&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE" alt="NasirNaveed GitHub streak stats" width="100%">
+  <img src="https://streak-stats.demolab.com/?user=NasirNaveed&theme=tokyonight&hide_border=true&background=0A0F1E&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE&x=1" alt="NasirNaveed GitHub streak stats" width="100%">
 </p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
